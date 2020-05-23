@@ -24,4 +24,8 @@ git revert: bo di commit do (han che dung)
  asdfasdfasdfasdfasd
  ***
  .gitignore: dua ten file vao trong file .gitignore thi no se khong commit file do
+
+
+ *** github
+ 1.git remote add <https....git>
  

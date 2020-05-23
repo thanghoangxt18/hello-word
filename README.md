@@ -17,3 +17,6 @@ git checkout -b <branch>
 
  git reset --soft <code of commit>: dua commit ve trang thai truoc khi commit, sau khi add
  git reset --mixed <> :  dua file ve trang thai truoc khi add (unstaged changes:)
+ git reset --hard <code of commit>: bo het file da commit bang code nay
+
+ 

@@ -21,4 +21,5 @@ git checkout -b <branch>
  git reset --hard <code of commit>: bo het file da commit cho den commit nay
 ****
 git revert: bo di commit do (han che dung)
+ zzzzzzzzz
  

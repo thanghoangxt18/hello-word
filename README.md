@@ -28,4 +28,9 @@ git revert: bo di commit do (han che dung)
 
  *** github
  1.git remote add <https....git>
+ 2.git push --set-upstream origin master
+ 3.git push origin master -f : cho push lan dau
  
+ ***
+ -git congif --global credential.helper "cache --timeout=18000"
+ -google "gnome-keyring" "git ssh"

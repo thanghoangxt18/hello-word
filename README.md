@@ -34,3 +34,15 @@ git revert: bo di commit do (han che dung)
  ***
  -git congif --global credential.helper "cache --timeout=18000"
  -google "gnome-keyring" "git ssh"
+
+ ***
+ git clone
+ git push
+ git pull
+ ***
+ Pull request
+ 1.git checkout
+ 2.git push origin <branch>
+ 3.create a pull request on github
+ 4.review code
+ 5.merge to master
